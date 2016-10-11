@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
         String str="Your number is " + String.valueOf(num) +"?";
         textView.setText(str);
-    }
+       }
     public void onclick_smaller(View view)
     {
         max=num;
